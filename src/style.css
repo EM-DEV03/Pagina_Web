@@ -41,17 +41,11 @@ a{
     }
 
     /* INICIO LOGO */
-    .logo{
+     .logo_em{
         flex: 1 1 auto;
+        width: 100px;
+        height: 100px;
     }
-        .logo a{
-            color: #fff;
-            font-size: 20px;
-        }
-        .logo a:hover{
-            color: #AAB99A;
-        }
-
 
      /* INICIO NAVEGACION */
     .nav{
